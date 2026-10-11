@@ -1,0 +1,8 @@
+[project]
+name ="mcp-server-python"
+version = "0.1.0"
+description = "A basic mcp server implementation"
+requires-python = ">=3.7,<3.16"
+dependencies = ["mcp","pydentic"]
+[tool.mcp]
+name = "my-mcp-server"
